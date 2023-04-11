@@ -1,0 +1,5 @@
+sceneSetups:
+- path: D:/unity/MyProject/Romi2D/Assets/romi.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
